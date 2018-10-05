@@ -1,0 +1,8 @@
+- id generated using code or autoincrement
+- unm in register table is not primary key but we manage it through code
+e.g., when user fills the registration form we check given unm is already exist in table or not using AJAX.
+- never enter value for autoincrement field.
+- generally change the name of uploaded file or image while saving to server and entering path in table.
+- use die() with proper message
+- never allow user to update id
+- set alternate color of row using if, counter and css

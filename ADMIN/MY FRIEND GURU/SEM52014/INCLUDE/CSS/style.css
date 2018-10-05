@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+#setheadimg
+{
+	background-image:url(../../images/main_bckg.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+}
+#setbottomimg
+{
+	background-image:url(../../images/footer_bckg.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+}
+#setbodyimg
+{
+	background-image:url(../../images/body.gif);
+	background-position:center;
+	background-repeat:inherit;
+}	
+a 
+{
+	color:#FFFFFF;
+	text-decoration:none;
+	font-size:18px;
+	font-family:"Courier New", Courier, monospace;
+}
+a:hover
+{
+	text-decoration:underline;
+}
+#cellimg
+{
+	background-image:url(../../images/but.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+}
